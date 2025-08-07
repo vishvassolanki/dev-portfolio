@@ -117,9 +117,9 @@ const Skill = forwardRef((props, ref) => {
             level: "50",
         },
         {
-            icon: "",
+            icon: "🐙",
             title: "Git Github",
-            description: "Version Control and Push, Pull",
+            description: "Version control and project management",
             level: "60",
         },
     ];
