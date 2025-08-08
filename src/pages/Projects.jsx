@@ -166,7 +166,7 @@ const Projects = forwardRef((props, ref) => {
                 "https://github.com/vishvassolanki/practice-projects/tree/main/currency-converter",
             liveUrl: "https://currency-converter-eight-beige.vercel.app/",
             technologies: ["HTML", "JavaScript", "CSS", "API"],
-            imageUrl: "/currency.png",
+            imageUrl: "/currency.avif",
         },
         {
             id: 2,
@@ -176,7 +176,7 @@ const Projects = forwardRef((props, ref) => {
                 "https://github.com/vishvassolanki/practice-projects/tree/main/react-landing-page",
             liveUrl: "https://practice-projects-chi.vercel.app/",
             technologies: ["React", "JSX", "CSS"],
-            imageUrl: "/react.png",
+            imageUrl: "/nike.jpg",
         },
         {
             id: 3,
@@ -185,8 +185,8 @@ const Projects = forwardRef((props, ref) => {
             githubUrl:
                 "https://github.com/vishvassolanki/practice-projects/tree/main/old-portfolio",
             liveUrl: "https://old-static-portfolio.vercel.app/",
-            technologies: ["HTML", "CSS", "CSS Animations", "CSS Variables"],
-            imageUrl: "/old-portfolio.png",
+            technologies: ["HTML", "CSS", "CSS Animations"],
+            imageUrl: "/old-portfolio.avif",
         },
         {
             id: 4,
@@ -208,7 +208,7 @@ const Projects = forwardRef((props, ref) => {
                 "https://github.com/vishvassolanki/practice-projects/tree/main/tic-tac-toe",
             liveUrl: "https://tic-tac-toe-gamma-dusky.vercel.app/",
             technologies: ["HTML", "CSS", "JavaScript"],
-            imageUrl: "/tic-tac-toe.png",
+            imageUrl: "/tic-tac.jpg",
         },
         
     ];
